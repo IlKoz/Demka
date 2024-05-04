@@ -26,3 +26,8 @@ php artisan serve
 ```sh
 php artisan migrate --seed
 ```
+
+Запустите того чтобы работали картинки командой
+```sh
+php artisan storage:link
+```
